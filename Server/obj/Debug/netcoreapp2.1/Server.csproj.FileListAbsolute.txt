@@ -1,0 +1,11 @@
+D:\net\HttpClientServer\Server\bin\Debug\netcoreapp2.1\Server.deps.json
+D:\net\HttpClientServer\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.json
+D:\net\HttpClientServer\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.dev.json
+D:\net\HttpClientServer\Server\bin\Debug\netcoreapp2.1\Server.dll
+D:\net\HttpClientServer\Server\obj\Debug\netcoreapp2.1\Server.csprojAssemblyReference.cache
+D:\net\HttpClientServer\Server\obj\Debug\netcoreapp2.1\Server.csproj.CoreCompileInputs.cache
+D:\net\HttpClientServer\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfoInputs.cache
+D:\net\HttpClientServer\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfo.cs
+D:\net\HttpClientServer\Server\bin\Debug\netcoreapp2.1\Server.pdb
+D:\net\HttpClientServer\Server\obj\Debug\netcoreapp2.1\Server.dll
+D:\net\HttpClientServer\Server\obj\Debug\netcoreapp2.1\Server.pdb
